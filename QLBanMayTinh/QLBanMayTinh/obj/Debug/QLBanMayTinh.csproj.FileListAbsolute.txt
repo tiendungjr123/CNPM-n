@@ -1,0 +1,15 @@
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\bin\Debug\QLBanMayTinh.exe.config
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\bin\Debug\QLBanMayTinh.exe
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\bin\Debug\QLBanMayTinh.pdb
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.csprojAssemblyReference.cache
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FromKhachHang.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.Trangchu.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FormNhanVien.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.Properties.Resources.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.csproj.GenerateResource.cache
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.csproj.CoreCompileInputs.cache
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.exe
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.pdb
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FormHang.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.Login.resources
+E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FormHoaDon.resources
