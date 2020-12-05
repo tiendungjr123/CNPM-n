@@ -13,3 +13,6 @@ E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBa
 E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FormHang.resources
 E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.Login.resources
 E:\HK1_2020_2021\CNPM\Baocaocuoiky\code\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.FormHoaDon.resources
+D:\CNPM\QLBanMayTinh1\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.csprojAssemblyReference.cache
+D:\CNPM\QLBanMayTinh1\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.exe
+D:\CNPM\QLBanMayTinh1\QLBanMayTinh\QLBanMayTinh\obj\Debug\QLBanMayTinh.pdb
